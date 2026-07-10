@@ -138,3 +138,142 @@ Every repository represents another step toward becoming a better engineer and b
 ### "Great software isn't measured by how much code it contains—it's measured by the problems it solves."
 
 </div>
+
+---
+
+# ⚡ Developer Snapshot
+
+<div align="center">
+
+| | |
+|:---:|:---:|
+| 🌍 **Location** | Lagos, Nigeria 🇳🇬 |
+| 💼 **Focus** | Developer Tools • AI • Full-Stack Engineering |
+| 🚀 **Current Project** | Opun8 |
+| 📂 **Public Repositories** | 10+ |
+| 👥 **Followers** | 28+ |
+| 🌱 **Always Learning** | AI • Cloud • DevEx • System Design |
+
+</div>
+
+---
+
+# 🏗️ Tech Stack
+
+<div align="center">
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css,bash" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,tailwind,vite" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase" />
+</p>
+
+### Developer Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,vercel,netlify" />
+</p>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+| Achievement | Status |
+|-------------|--------|
+| 🌌 Galaxy Brain | ✅ Earned |
+| 🤝 Pair Extraordinaire | ✅ Earned |
+| 🚀 YOLO | ✅ Earned |
+
+</div>
+
+These achievements represent active participation in the GitHub ecosystem through collaboration, contributions, and continuous development.
+
+---
+
+# 📈 GitHub Activity
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=KakesDavid&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KakesDavid&layout=compact&theme=transparent&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="98%" src="https://streak-stats.demolab.com?user=KakesDavid&theme=transparent&hide_border=true"/>
+
+</div>
+
+---
+
+# 📊 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KakesDavid&theme=github-compact&hide_border=true"/>
+
+</div>
+
+---
+
+# 🌱 Open Source
+
+I believe open source is one of the best environments for continuous growth.
+
+Building in public encourages better engineering practices, thoughtful documentation, collaborative development, and long-term maintainability.
+
+As my projects continue to mature, my goal is to contribute more reusable developer tooling and AI-powered utilities that help other developers build faster and more confidently.
+
+---
+
+# 🎯 Current Roadmap
+
+```text
+🚧 Building Opun8
+
+☁️ Improve Cloud Deployment Experience
+
+🤖 Build AI-Powered Developer Tools
+
+📦 Publish More Open Source Projects
+
+🧠 Learn More About Software Architecture
+
+⚙️ Improve Developer Experience (DevEx)
+
+🌍 Grow an Active Developer Community
+```
+
+---
+
+# 💡 What Drives Me
+
+> I don't measure success by the number of repositories I create.
+
+I measure it by the number of real problems my software solves.
+
+Whether I'm building a deployment CLI, designing a fintech product, or experimenting with AI workflows, my goal remains the same:
+
+**Build software that developers enjoy using.**
+
+---
