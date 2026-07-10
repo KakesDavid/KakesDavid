@@ -277,3 +277,146 @@ Whether I'm building a deployment CLI, designing a fintech product, or experimen
 **Build software that developers enjoy using.**
 
 ---
+
+---
+
+# 🚀 Featured Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+## 🚀 Opun8
+
+### Universal Deployment CLI
+
+A developer-first command-line tool designed to streamline deployments across multiple platforms without leaving the terminal.
+
+**Highlights**
+
+- Python-powered CLI
+- Deployment automation
+- Extensible architecture
+- Developer-first experience
+
+> **Status:** 🚧 Actively Building
+
+</td>
+
+<td width="50%" valign="top">
+
+## 📄 EDDoc
+
+### AI-Assisted Document Workspace
+
+An evolving project focused on simplifying document editing workflows through an intuitive interface and AI-assisted features.
+
+> Exploring productivity-focused document tooling.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+## 🛒 Sellink
+
+A marketplace concept built around helping creators and businesses sell digital and physical products with a modern user experience.
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🎮 WPlay
+
+A gaming platform concept combining competitive gameplay with secure wallet systems and escrow-based transactions.
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📌 Currently Working On
+
+```text
+✔ Building Opun8
+
+✔ Exploring AI-assisted software development
+
+✔ Improving Python architecture skills
+
+✔ Designing better developer experiences
+
+✔ Expanding my open-source portfolio
+
+✔ Building products with long-term impact
+```
+
+---
+
+# 🧠 Engineering Mindset
+
+I enjoy building software that solves practical problems through thoughtful engineering.
+
+When starting a project, I focus on understanding the problem first, then designing a solution that is maintainable, scalable, and intuitive to use. My approach emphasizes simplicity, reliability, and continuous improvement.
+
+I'm especially interested in the intersection of:
+
+- Artificial Intelligence
+- Developer Experience (DevEx)
+- Automation
+- Full-Stack Engineering
+- Product Development
+
+---
+
+# 📅 2026 Goals
+
+- 🚀 Launch the first public release of **Opun8**
+- 📦 Publish more open-source developer tools
+- 🤝 Collaborate with developers on meaningful projects
+- 🌍 Continue building products that solve real problems
+- 📚 Deepen expertise in software architecture and AI engineering
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://codewithkakes.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit_Website-111827?style=for-the-badge">
+</a>
+
+<a href="https://www.linkedin.com/in/kakesdavid">
+<img src="https://img.shields.io/badge/LinkedIn-Kakes_David-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://x.com/codewithkakes">
+<img src="https://img.shields.io/badge/X-@codewithkakes-000000?style=for-the-badge&logo=x&logoColor=white">
+</a>
+
+<a href="mailto:codewithkakes@gmail.com">
+<img src="https://img.shields.io/badge/Email-codewithkakes@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## Thanks for stopping by!
+
+If you enjoy building developer tools, AI-powered applications, or open-source software, I'd love to connect and exchange ideas.
+
+<img src="https://komarev.com/ghpvc/?username=KakesDavid&style=for-the-badge&color=blue" />
+
+<br><br>
+
+**"Build with purpose. Learn continuously. Ship consistently."**
+
+⭐ *If you find one of my projects useful, consider giving it a star.*
+
+</div>
