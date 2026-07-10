@@ -1,5 +1,5 @@
 <div align="center">
-<meta name="google-site-verification" content="BHrquQBrrfaN4CXPIsAutaxHppGE3QMjJDsMF8CwUBg" />
+
 # Hi, I'm Kakes David 👋
 
 ### Software Developer • Python Developer • Full-Stack Engineer • AI Builder
@@ -418,5 +418,5 @@ If you enjoy building developer tools, AI-powered applications, or open-source s
 **"Build with purpose. Learn continuously. Ship consistently."**
 
 ⭐ *If you find one of my projects useful, consider giving it a star.*
-
+<meta name="google-site-verification" content="BHrquQBrrfaN4CXPIsAutaxHppGE3QMjJDsMF8CwUBg" />
 </div>
