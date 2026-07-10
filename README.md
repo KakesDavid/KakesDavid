@@ -1,28 +1,27 @@
 <div align="center">
 
-# 👋 Hi, I'm Kakes David
+# Hi, I'm Kakes David 👋
 
-### Software Developer • Python Engineer • Full-Stack Developer • AI Builder
+### Software Developer • Python Developer • Full-Stack Engineer • AI Builder
 
-Building developer tools, AI-powered software, and modern web applications that solve real-world problems.
+I build software that simplifies workflows, improves developer productivity, and transforms ideas into real products.
 
-<br>
-
-<a href="https://codewithkakes.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white">
+<p align="center">
+<a href="https://codewithkakes.netlify.app/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-111827?style=for-the-badge">
 </a>
-
 <a href="https://www.linkedin.com/in/kakesdavid">
-    <img src="https://img.shields.io/badge/LinkedIn-Kakes%20David-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-Kakes_David-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-
 <a href="https://x.com/codewithkakes">
-    <img src="https://img.shields.io/badge/X-@codewithkakes-111111?style=for-the-badge&logo=x&logoColor=white">
+    <img src="https://img.shields.io/badge/X-@codewithkakes-000000?style=for-the-badge&logo=x&logoColor=white">
 </a>
-
 <a href="mailto:codewithkakes@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
+</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=1200&center=true&vCenter=true&width=750&lines=Building+Developer+Tools.;Engineering+AI-Powered+Applications.;Creating+Modern+Web+Experiences.;Currently+Building+Opun8." />
 
 </div>
 
@@ -30,297 +29,112 @@ Building developer tools, AI-powered software, and modern web applications that 
 
 # About Me
 
-I'm **Kakes David**, a software developer from Nigeria focused on building software that simplifies complex workflows and creates practical value for developers, businesses, and creators.
+I'm **Kakes David**, a software developer based in **Nigeria** with a strong interest in building software that solves practical problems through thoughtful engineering and clean user experiences.
 
-Rather than building projects for the sake of adding repositories, I enjoy designing products from the ground up—starting with an idea, refining the user experience, engineering the architecture, and turning that vision into software people can use.
+My work spans **Python**, **JavaScript**, **React**, **Node.js**, and modern web technologies, with a growing focus on **developer tools**, **automation**, and **AI-powered applications**.
 
-My interests span developer tools, artificial intelligence, automation, cloud deployment, fintech, and modern full-stack web development. Whether I'm writing Python automation scripts, building responsive React interfaces, or designing backend systems, my goal is always the same:
+Rather than treating GitHub as a collection of repositories, I use it as a place to build products, experiment with ideas, and continually improve as an engineer. Every project is an opportunity to learn, refine my craft, and create something genuinely useful.
 
-> Build software that feels simple to use, reliable to maintain, and enjoyable to develop.
+I enjoy designing systems from the ground up—from planning architecture and building interfaces to shipping software that developers and end users can rely on.
 
 ---
 
-# 🚀 Current Focus
+# 🚀 What I'm Building
 
-My primary focus right now is **Opun8**.
+My current flagship project is **Opun8**.
 
-Opun8 is an ambitious developer tool designed to simplify application deployment through a unified command-line experience. Instead of switching between multiple dashboards, deployment providers, and configuration files, the goal is to let developers deploy projects directly from their terminal with a streamlined workflow.
+Opun8 is a universal deployment CLI designed to simplify the deployment process by allowing developers to deploy applications directly from their terminal without constantly switching between dashboards and hosting providers.
 
-Alongside Opun8, I'm exploring:
+The long-term vision is to create a deployment experience that is fast, intuitive, extensible, and developer-first.
 
-- AI-assisted software engineering
+Alongside Opun8, I'm actively exploring:
+
 - Developer Experience (DevEx)
+- AI-assisted software engineering
 - Automation with Python
-- Modern cloud deployment workflows
-- Open-source tooling
-- Intelligent developer assistants
-
-Every new project I build is an opportunity to improve not only my engineering skills, but also the developer experience for others.
+- Cloud deployment workflows
+- CLI application development
+- Modern software architecture
 
 ---
 
-# Featured Projects
+# Featured Products
 
-## 🚀 Opun8
+### 🚀 Opun8
 
-**Universal Deployment CLI**
+A universal deployment CLI focused on making application deployment simpler, faster, and more productive.
 
-A Python-powered developer tool focused on making application deployment faster and more intuitive through a single command-line interface.
-
-**Status**
-
-> 🚧 Currently in active development
+**Status:** Active Development
 
 ---
 
-## 🎮 WPlay
+### 🎮 WPlay
 
-A product concept that combines competitive gameplay with fintech principles, featuring wallet systems, escrow-based matches, and trust-focused user experiences.
-
----
-
-## 🛒 Sellink
-
-A marketplace platform designed to help creators and businesses sell digital and physical products through a modern commerce experience.
+A competitive gaming platform concept combining secure wallets, escrow-based gameplay, and trust-driven user experiences.
 
 ---
 
-## 📄 EDDoc
+### 🛒 Sellink
 
-An AI-assisted document workspace focused on making document editing workflows faster and more accessible.
+A marketplace platform built around empowering creators and businesses to sell digital and physical products.
 
 ---
 
-## 💳 KoboPay
+### 📄 EDDoc
 
-A digital payments concept exploring seamless financial transactions through modern web technologies.
+An AI-assisted document workspace designed to simplify document editing workflows.
+
+---
+
+### 💳 KoboPay
+
+A fintech product concept exploring modern digital payment experiences.
 
 ---
 
 # Engineering Philosophy
 
-I believe great software is measured by more than clean code.
+> **Software should reduce complexity—not introduce it.**
 
-It's measured by how effectively it solves problems.
+I believe the best software is software that people don't have to think about.
 
-When I build software, I try to balance:
+My approach to engineering is guided by a few core principles:
 
-- Clean architecture
-- Maintainable codebases
-- Thoughtful user experience
-- Practical automation
-- Long-term scalability
+- Build products, not just projects.
+- Prioritize maintainability over shortcuts.
+- Write code that is readable and scalable.
+- Create intuitive user experiences.
+- Learn continuously through real-world development.
+- Ship consistently and improve through iteration.
 
-I'm particularly interested in products that reduce repetitive work, improve developer productivity, and make technology easier to adopt.
-
-For me, every repository is more than code—it's an opportunity to learn, iterate, and build something meaningful.
+Every repository represents another step toward becoming a better engineer and building products that create meaningful impact.
 
 ---
 
-# Currently Exploring
+# Current Focus
 
 ```text
-✓ Python Automation
-
-✓ AI Applications
-
-✓ Developer Tooling
+✓ Python Development
 
 ✓ Full-Stack Web Development
 
-✓ Cloud Deployment
+✓ AI Applications
+
+✓ Developer Tools
 
 ✓ CLI Engineering
 
-✓ Open Source
+✓ Cloud Deployment
 
-✓ Product Engineering
+✓ Automation
+
+✓ Open Source
 ```
 
 ---
 
 <div align="center">
 
-### "Build products. Solve problems. Keep shipping."
+### "Great software isn't measured by how much code it contains—it's measured by the problems it solves."
 
 </div>
-
----
-
-# 🛠 Technology Stack
-
-<div align="center">
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,js,html,css,bash" />
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,tailwind,vite" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,firebase" />
-</p>
-
-### Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,linux" />
-</p>
-
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-| Achievement | What It Represents |
-|-------------|-------------------|
-| 🌌 **Galaxy Brain** | Recognized for insightful technical contributions and thoughtful problem solving. |
-| 🤝 **Pair Extraordinaire** | Recognition for successful collaboration through GitHub's collaborative development features. |
-| 🚀 **YOLO** | Celebrates confidently shipping code and embracing rapid iteration. |
-
-</div>
-
-> Every achievement reflects continued participation in the GitHub ecosystem. My primary focus remains building software that delivers value rather than collecting badges.
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=KakesDavid&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KakesDavid&layout=compact&hide_border=true"/>
-
-</div>
-
----
-
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=KakesDavid&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KakesDavid&hide_border=true"/>
-
-</div>
-
----
-
-# 🌍 Open Source Journey
-
-I enjoy building in public and continuously improving through real projects.
-
-Open source allows me to:
-
-- Learn from experienced engineers.
-- Share tools that help other developers.
-- Receive valuable feedback from the community.
-- Build software that continues to improve beyond its first release.
-
-As my projects mature, I plan to expand my open-source contributions, publish reusable developer tooling, and collaborate with engineers building impactful software.
-
----
-
-# 🧰 Developer Toolkit
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-### Languages
-
-- Python
-- JavaScript
-- HTML5
-- CSS3
-
-</td>
-
-<td width="50%">
-
-### Development
-
-- Full-Stack Web Development
-- REST API Development
-- CLI Applications
-- Automation
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-### Interests
-
-- Artificial Intelligence
-- Developer Experience (DevEx)
-- Cloud Deployment
-- Open Source
-
-</td>
-
-<td>
-
-### Currently Exploring
-
-- AI Agents
-- LLM Workflows
-- Product Engineering
-- Software Architecture
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 🎯 Engineering Principles
-
-Rather than chasing trends, I focus on building software that remains useful long after it's written.
-
-The principles that guide my work include:
-
-- Write code that is easy to maintain.
-- Prioritize user experience alongside technical excellence.
-- Build products with long-term scalability in mind.
-- Automate repetitive work whenever possible.
-- Keep learning through real-world projects.
-- Ship consistently and improve continuously.
-
----
-
-# 📌 Current Mission
-
-> Building software that helps developers work faster, businesses operate smarter, and ideas become real products.
-
-Every repository represents another step toward that mission.
-
----
