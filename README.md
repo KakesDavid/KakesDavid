@@ -1,6 +1,6 @@
 <div align="center">
 
-# Kakes David
+# Hi I'm Kakes David a Software Developer | Python Developer | Full-Stack Engineer | AI Builder
 
 ### Building developer tools, AI-powered applications, and modern web experiences from Lagos, Nigeria 🇳🇬
 
