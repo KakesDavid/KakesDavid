@@ -144,3 +144,183 @@ For me, every repository is more than code—it's an opportunity to learn, itera
 ### "Build products. Solve problems. Keep shipping."
 
 </div>
+
+---
+
+# 🛠 Technology Stack
+
+<div align="center">
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,html,css,bash" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,tailwind,vite" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase" />
+</p>
+
+### Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,linux" />
+</p>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+| Achievement | What It Represents |
+|-------------|-------------------|
+| 🌌 **Galaxy Brain** | Recognized for insightful technical contributions and thoughtful problem solving. |
+| 🤝 **Pair Extraordinaire** | Recognition for successful collaboration through GitHub's collaborative development features. |
+| 🚀 **YOLO** | Celebrates confidently shipping code and embracing rapid iteration. |
+
+</div>
+
+> Every achievement reflects continued participation in the GitHub ecosystem. My primary focus remains building software that delivers value rather than collecting badges.
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=KakesDavid&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KakesDavid&layout=compact&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=KakesDavid&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KakesDavid&hide_border=true"/>
+
+</div>
+
+---
+
+# 🌍 Open Source Journey
+
+I enjoy building in public and continuously improving through real projects.
+
+Open source allows me to:
+
+- Learn from experienced engineers.
+- Share tools that help other developers.
+- Receive valuable feedback from the community.
+- Build software that continues to improve beyond its first release.
+
+As my projects mature, I plan to expand my open-source contributions, publish reusable developer tooling, and collaborate with engineers building impactful software.
+
+---
+
+# 🧰 Developer Toolkit
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### Languages
+
+- Python
+- JavaScript
+- HTML5
+- CSS3
+
+</td>
+
+<td width="50%">
+
+### Development
+
+- Full-Stack Web Development
+- REST API Development
+- CLI Applications
+- Automation
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+### Interests
+
+- Artificial Intelligence
+- Developer Experience (DevEx)
+- Cloud Deployment
+- Open Source
+
+</td>
+
+<td>
+
+### Currently Exploring
+
+- AI Agents
+- LLM Workflows
+- Product Engineering
+- Software Architecture
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🎯 Engineering Principles
+
+Rather than chasing trends, I focus on building software that remains useful long after it's written.
+
+The principles that guide my work include:
+
+- Write code that is easy to maintain.
+- Prioritize user experience alongside technical excellence.
+- Build products with long-term scalability in mind.
+- Automate repetitive work whenever possible.
+- Keep learning through real-world projects.
+- Ship consistently and improve continuously.
+
+---
+
+# 📌 Current Mission
+
+> Building software that helps developers work faster, businesses operate smarter, and ideas become real products.
+
+Every repository represents another step toward that mission.
+
+---
