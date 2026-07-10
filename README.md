@@ -1,6 +1,6 @@
 <div align="center">
 
-# Kakes David — Software Developer | Python Developer | Full-Stack Engineer | AI Builder
+# Kakes David
 
 ### Building developer tools, AI-powered applications, and modern web experiences from Lagos, Nigeria 🇳🇬
 
@@ -143,16 +143,16 @@ The best software is software people don't have to think about. My approach as a
 
 <div align="center">
 
-<img alt="Kakes David GitHub stats" width="49%" src="https://github-readme-stats.vercel.app/api?username=KakesDavid&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
-<img alt="Kakes David top languages used" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KakesDavid&layout=compact&theme=transparent&hide_border=true"/>
+<img alt="Kakes David GitHub stats" width="49%" src="https://github-readme-stats.vercel.app/api?username=KakesDavid&show_icons=true&hide_border=true&bg_color=00000000&rank_icon=github&cache_seconds=86400"/>
+<img alt="Kakes David top languages used" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KakesDavid&layout=compact&hide_border=true&bg_color=00000000&cache_seconds=86400"/>
 
 <br><br>
 
-<img alt="Kakes David GitHub contribution streak" width="98%" src="https://streak-stats.demolab.com?user=KakesDavid&theme=transparent&hide_border=true"/>
+<img alt="Kakes David GitHub contribution streak" width="98%" src="https://streak-stats.demolab.com?user=KakesDavid&hide_border=true&background=00000000"/>
 
 <br><br>
 
-<img alt="Kakes David GitHub contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=KakesDavid&theme=github-compact&hide_border=true"/>
+<img alt="Kakes David GitHub contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=KakesDavid&theme=github-compact&hide_border=true&bg_color=00000000"/>
 
 </div>
 
